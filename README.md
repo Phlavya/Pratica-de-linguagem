@@ -13,7 +13,7 @@ Exercícios para o curso de engenharia de software
 
 <!-- níveis de cabeçalho-->   
 
-<!--/* tags de html(h1-h6) */-->
+
 
 <h1>Flávia1</h1>
 
